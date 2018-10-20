@@ -1,0 +1,1 @@
+{"data":{"markdownRemark":{"html":"<p>Lorem ipsum dolor sit amet 2.</p>","frontmatter":{"title":"My Second Post"}}},"pageContext":{"pathSlug":"/second-post","prev":{"frontmatter":{"path":"/first-post","title":"My First Post","tags":["this","that"]}},"next":{"frontmatter":{"path":"/third-post","title":"My third Post","tags":["this","that"]}}}}
